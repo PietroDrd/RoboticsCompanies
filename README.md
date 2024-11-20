@@ -1,7 +1,5 @@
 # European Robotics Organizations Directory
 
-[TOC]
-
 ## Categories & Quick Links
 - [🏭 Established Companies](#established-companies)
   - [Industrial Manufacturing](#industrial-manufacturing)

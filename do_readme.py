@@ -4,8 +4,7 @@ import yaml
 import os
 
 def generate_readme(data):
-    readme_content = "# European Robotics Organizations Directory\n\n"
-    readme_content += "[TOC]\n\n"
+    readme_content = "# European Robotics Companies and Organizations\n\n"
 
     # Generate Categories & Quick Links
     readme_content += "## Categories & Quick Links\n"

@@ -8,7 +8,6 @@ def generate_readme(data_file, output_file):
 
     # Initialize README content
     readme = "# European Robotics Organizations Directory\n\n"
-    readme += "[TOC]\n\n"
 
     # Categories mapping for ordering
     category_titles = {
