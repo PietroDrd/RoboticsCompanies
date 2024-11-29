@@ -1,210 +1,209 @@
-categories:
-  established_companies:
-    industrial_manufacturing:
-      - name: ABB Robotics
-        location: Sweden
-        specialization: Industrial automation, collaborative robots
-        links:
-          website: "https://new.abb.com/products/robotics"
-          careers: "https://global.abb/group/en/careers"
-          linkedin: "https://www.linkedin.com/company/abb/"
-      - name: Bosch Rexroth
-        location: Germany
-        specialization: Factory automation, mobile robotics
-        links:
-          website: "https://www.boschrexroth.com"
-          careers: "https://www.boschrexroth.com/en/xc/company/career/"
-          linkedin: "https://www.linkedin.com/company/bosch-rexroth/"
-      - name: Comau
-        location: Italy
-        specialization: Industrial robots, automated systems
-        links:
-          website: "https://www.comau.com"
-          careers: "https://www.comau.com/en/careers/"
-          linkedin: "https://www.linkedin.com/company/comau/"
-      - name: FANUC Europe
-        location: Luxembourg
-        specialization: CNC systems, industrial robots
-        links:
-          website: "https://www.fanuc.eu"
-          careers: "https://www.fanuc.eu/uk/en/career"
-          linkedin: "https://www.linkedin.com/company/fanuc-europe/"
-      - name: Franka Emika
-        location: Germany
-        specialization: Collaborative robots
-        links:
-          website: "https://www.franka.de"
-          careers: "https://www.franka.de/career/"
-          linkedin: "https://www.linkedin.com/company/franka-emika/"
-      - name: KUKA
-        location: Germany
-        specialization: Industrial robots, cobots
-        links:
-          website: "https://www.kuka.com"
-          careers: "https://www.kuka.com/careers"
-          linkedin: "https://www.linkedin.com/company/kuka/"
-      - name: Staubli Robotics
-        location: Switzerland
-        specialization: Industrial robots
-        links:
-          website: "https://www.staubli.com/robotics"
-          careers: "https://www.staubli.com/en/career/"
-          linkedin: "https://www.linkedin.com/company/staubli/"
-      - name: Universal Robots
-        location: Denmark
-        specialization: Collaborative robots
-        links:
-          website: "https://www.universal-robots.com"
-          careers: "https://www.universal-robots.com/careers/"
-          linkedin: "https://www.linkedin.com/company/universal-robots-a-s/"
-    service_humanoid:
-      - name: Blue Ocean Robotics
-        location: Denmark
-        specialization: Professional service robots
-        links:
-          website: "https://www.blue-ocean-robotics.com"
-          careers: "https://www.blue-ocean-robotics.com/career"
-          linkedin: "https://www.linkedin.com/company/blue-ocean-robotics/"
-      - name: PAL Robotics
-        location: Spain
-        specialization: Humanoid & service robots
-        links:
-          website: "https://www.pal-robotics.com"
-          careers: "https://pal-robotics.com/jobs/"
-          linkedin: "https://www.linkedin.com/company/pal-robotics/"
-      - name: Softbank Robotics Europe
-        location: France
-        specialization: Humanoid robots
-        links:
-          website: "https://www.softbankrobotics.com"
-          careers: "https://www.softbankrobotics.com/emea/en/company/careers"
-          linkedin: "https://www.linkedin.com/company/softbank-robotics/"
-    mobile_logistics:
-      - name: Mobile Industrial Robots
-        location: Denmark
-        specialization: Autonomous mobile robots
-        links:
-          website: "https://www.mobile-industrial-robots.com"
-          careers: "https://www.mobile-industrial-robots.com/careers/"
-          linkedin: "https://www.linkedin.com/company/mobile-industrial-robots/"
-      - name: Robotnik
-        location: Spain
-        specialization: Mobile platforms
-        links:
-          website: "https://www.robotnik.eu"
-          careers: "https://www.robotnik.eu/jobs/"
-          linkedin: "https://www.linkedin.com/company/robotnik/"
-      - name: SAFELOG
-        location: Germany
-        specialization: Warehouse automation
-        links:
-          website: "https://www.safelog.de"
-          careers: "https://www.safelog.de/en/careers/"
-          linkedin: "https://www.linkedin.com/company/safelog-gmbh/"
-  growing_startups:
-    aerial_drones:
-      - name: Aerones
-        location: Latvia
-        specialization: Industrial drones
-        links:
-          website: "https://www.aerones.com"
-          careers: "https://www.aerones.com/careers"
-          linkedin: "https://www.linkedin.com/company/aerones/"
-      - name: Flyability
-        location: Switzerland
-        specialization: Inspection drones
-        links:
-          website: "https://www.flyability.com"
-          careers: "https://www.flyability.com/jobs"
-          linkedin: "https://www.linkedin.com/company/flyability/"
-      - name: Quantum Systems
-        location: Germany
-        specialization: Professional UAV
-        links:
-          website: "https://quantum-systems.com"
-          careers: "https://quantum-systems.com/career/"
-          linkedin: "https://www.linkedin.com/company/quantum-systems-gmbh/"
-    legged_robotics:
-      - name: ANYbotics
-        location: Switzerland
-        specialization: Quadruped robots
-        links:
-          website: "https://www.anybotics.com"
-          careers: "https://www.anybotics.com/careers/"
-          linkedin: "https://www.linkedin.com/company/anybotics/"
-      - name: Hybrid Robotics
-        location: UK
-        specialization: Legged robots
-        links:
-          website: "https://hybrid-robotics.com"
-          careers: "https://hybrid-robotics.com/careers/"
-          linkedin: "https://www.linkedin.com/company/hybrid-robotics/"
-    warehouse_logistics:
-      - name: Exotec
-        location: France
-        specialization: Warehouse robots
-        links:
-          website: "https://www.exotec.com"
-          careers: "https://www.exotec.com/careers/"
-          linkedin: "https://www.linkedin.com/company/exotec/"
-      - name: Magazino
-        location: Germany
-        specialization: Picking robots
-        links:
-          website: "https://www.magazino.eu"
-          careers: "https://www.magazino.eu/careers/"
-          linkedin: "https://www.linkedin.com/company/magazino/"
-      - name: Scallog
-        location: France
-        specialization: Logistics automation
-        links:
-          website: "https://www.scallog.com"
-          careers: "https://www.scallog.com/en/careers/"
-          linkedin: "https://www.linkedin.com/company/scallog/"
-    medical_healthcare:
-      - name: CMR Surgical
-        location: UK
-        specialization: Surgical robots
-        links:
-          website: "https://cmrsurgical.com"
-          careers: "https://cmrsurgical.com/careers/"
-          linkedin: "https://www.linkedin.com/company/cmr-surgical/"
-      - name: Corindus
-        location: Netherlands
-        specialization: Vascular robotics
-        links:
-          website: "https://www.corindus.com"
-          careers: "https://www.corindus.com/careers/"
-          linkedin: "https://www.linkedin.com/company/corindus/"
-      - name: Moon Surgical
-        location: France
-        specialization: Surgical assistance
-        links:
-          website: "https://www.moonsurgical.com"
-          careers: "https://www.moonsurgical.com/careers/"
-          linkedin: "https://www.linkedin.com/company/moon-surgical/"
-    specialized_applications:
-      - name: German Bionic
-        location: Germany
-        specialization: Exoskeletons
-        links:
-          website: "https://www.germanbionic.com"
-          careers: "https://www.germanbionic.com/careers/"
-          linkedin: "https://www.linkedin.com/company/german-bionic/"
-      - name: Piap Space
-        location: Poland
-        specialization: Space robotics
-        links:
-          website: "https://piap.space"
-          careers: "https://piap.space/careers/"
-          linkedin: "https://www.linkedin.com/company/piap-space/"
-      - name: Wandelbots
-        location: Germany
-        specialization: Robot programming
-        links:
-          website: "https://www.wandelbots.com"
-          careers: "https://www.wandelbots.com/en/career/"
-          linkedin: "https://www.linkedin.com/company/wandelbots/"
+established_companies:
+  industrial_manufacturing:
+    - name: ABB Robotics
+      location: Sweden
+      specialization: Industrial automation, collaborative robots
+      links:
+        website: "https://new.abb.com/products/robotics"
+        careers: "https://global.abb/group/en/careers"
+        linkedin: "https://www.linkedin.com/company/abb/"
+    - name: Bosch Rexroth
+      location: Germany
+      specialization: Factory automation, mobile robotics
+      links:
+        website: "https://www.boschrexroth.com"
+        careers: "https://www.boschrexroth.com/en/xc/company/career/"
+        linkedin: "https://www.linkedin.com/company/bosch-rexroth/"
+    - name: Comau
+      location: Italy
+      specialization: Industrial robots, automated systems
+      links:
+        website: "https://www.comau.com"
+        careers: "https://www.comau.com/en/careers/"
+        linkedin: "https://www.linkedin.com/company/comau/"
+    - name: FANUC Europe
+      location: Luxembourg
+      specialization: CNC systems, industrial robots
+      links:
+        website: "https://www.fanuc.eu"
+        careers: "https://www.fanuc.eu/uk/en/career"
+        linkedin: "https://www.linkedin.com/company/fanuc-europe/"
+    - name: Franka Emika
+      location: Germany
+      specialization: Collaborative robots
+      links:
+        website: "https://www.franka.de"
+        careers: "https://www.franka.de/career/"
+        linkedin: "https://www.linkedin.com/company/franka-emika/"
+    - name: KUKA
+      location: Germany
+      specialization: Industrial robots, cobots
+      links:
+        website: "https://www.kuka.com"
+        careers: "https://www.kuka.com/careers"
+        linkedin: "https://www.linkedin.com/company/kuka/"
+    - name: Stäubli Robotics
+      location: Switzerland
+      specialization: Industrial robots
+      links:
+        website: "https://www.staubli.com/robotics"
+        careers: "https://www.staubli.com/en/career/"
+        linkedin: "https://www.linkedin.com/company/staubli/"
+    - name: Universal Robots
+      location: Denmark
+      specialization: Collaborative robots
+      links:
+        website: "https://www.universal-robots.com"
+        careers: "https://www.universal-robots.com/careers/"
+        linkedin: "https://www.linkedin.com/company/universal-robots-a-s/"
+  service_humanoid:
+    - name: Blue Ocean Robotics
+      location: Denmark
+      specialization: Professional service robots
+      links:
+        website: "https://www.blue-ocean-robotics.com"
+        careers: "https://www.blue-ocean-robotics.com/career"
+        linkedin: "https://www.linkedin.com/company/blue-ocean-robotics/"
+    - name: PAL Robotics
+      location: Spain
+      specialization: Humanoid & service robots
+      links:
+        website: "https://www.pal-robotics.com"
+        careers: "https://pal-robotics.com/jobs/"
+        linkedin: "https://www.linkedin.com/company/pal-robotics/"
+    - name: Softbank Robotics Europe
+      location: France
+      specialization: Humanoid robots
+      links:
+        website: "https://www.softbankrobotics.com"
+        careers: "https://www.softbankrobotics.com/emea/en/company/careers"
+        linkedin: "https://www.linkedin.com/company/softbank-robotics/"
+  mobile_logistics:
+    - name: Mobile Industrial Robots
+      location: Denmark
+      specialization: Autonomous mobile robots
+      links:
+        website: "https://www.mobile-industrial-robots.com"
+        careers: "https://www.mobile-industrial-robots.com/careers/"
+        linkedin: "https://www.linkedin.com/company/mobile-industrial-robots/"
+    - name: Robotnik
+      location: Spain
+      specialization: Mobile platforms
+      links:
+        website: "https://www.robotnik.eu"
+        careers: "https://www.robotnik.eu/jobs/"
+        linkedin: "https://www.linkedin.com/company/robotnik/"
+    - name: SAFELOG
+      location: Germany
+      specialization: Warehouse automation
+      links:
+        website: "https://www.safelog.de"
+        careers: "https://www.safelog.de/en/careers/"
+        linkedin: "https://www.linkedin.com/company/safelog-gmbh/"
+growing_startups:
+  aerial_drones:
+    - name: Aerones
+      location: Latvia
+      specialization: Industrial drones
+      links:
+        website: "https://www.aerones.com"
+        careers: "https://www.aerones.com/careers"
+        linkedin: "https://www.linkedin.com/company/aerones/"
+    - name: Flyability
+      location: Switzerland
+      specialization: Inspection drones
+      links:
+        website: "https://www.flyability.com"
+        careers: "https://www.flyability.com/jobs"
+        linkedin: "https://www.linkedin.com/company/flyability/"
+    - name: Quantum Systems
+      location: Germany
+      specialization: Professional UAV
+      links:
+        website: "https://quantum-systems.com"
+        careers: "https://quantum-systems.com/career/"
+        linkedin: "https://www.linkedin.com/company/quantum-systems-gmbh/"
+  legged_robotics:
+    - name: ANYbotics
+      location: Switzerland
+      specialization: Quadruped robots
+      links:
+        website: "https://www.anybotics.com"
+        careers: "https://www.anybotics.com/careers/"
+        linkedin: "https://www.linkedin.com/company/anybotics/"
+    - name: Hybrid Robotics
+      location: UK
+      specialization: Legged robots
+      links:
+        website: "https://hybrid-robotics.com"
+        careers: "https://hybrid-robotics.com/careers/"
+        linkedin: "https://www.linkedin.com/company/hybrid-robotics/"
+  warehouse_logistics:
+    - name: Exotec
+      location: France
+      specialization: Warehouse robots
+      links:
+        website: "https://www.exotec.com"
+        careers: "https://www.exotec.com/careers/"
+        linkedin: "https://www.linkedin.com/company/exotec/"
+    - name: Magazino
+      location: Germany
+      specialization: Picking robots
+      links:
+        website: "https://www.magazino.eu"
+        careers: "https://www.magazino.eu/careers/"
+        linkedin: "https://www.linkedin.com/company/magazino/"
+    - name: Scallog
+      location: France
+      specialization: Logistics automation
+      links:
+        website: "https://www.scallog.com"
+        careers: "https://www.scallog.com/en/careers/"
+        linkedin: "https://www.linkedin.com/company/scallog/"
+  medical_healthcare:
+    - name: CMR Surgical
+      location: UK
+      specialization: Surgical robots
+      links:
+        website: "https://cmrsurgical.com"
+        careers: "https://cmrsurgical.com/careers/"
+        linkedin: "https://www.linkedin.com/company/cmr-surgical/"
+    - name: Corindus
+      location: Netherlands
+      specialization: Vascular robotics
+      links:
+        website: "https://www.corindus.com"
+        careers: "https://www.corindus.com/careers/"
+        linkedin: "https://www.linkedin.com/company/corindus/"
+    - name: Moon Surgical
+      location: France
+      specialization: Surgical assistance
+      links:
+        website: "https://www.moonsurgical.com"
+        careers: "https://www.moonsurgical.com/careers/"
+        linkedin: "https://www.linkedin.com/company/moon-surgical/"
+  specialized_applications:
+    - name: German Bionic
+      location: Germany
+      specialization: Exoskeletons
+      links:
+        website: "https://www.germanbionic.com"
+        careers: "https://www.germanbionic.com/careers/"
+        linkedin: "https://www.linkedin.com/company/german-bionic/"
+    - name: Piap Space
+      location: Poland
+      specialization: Space robotics
+      links:
+        website: "https://piap.space"
+        careers: "https://piap.space/careers/"
+        linkedin: "https://www.linkedin.com/company/piap-space/"
+    - name: Wandelbots
+      location: Germany
+      specialization: Robot programming
+      links:
+        website: "https://www.wandelbots.com"
+        careers: "https://www.wandelbots.com/en/career/"
+        linkedin: "https://www.linkedin.com/company/wandelbots/"
   components:
     - name: OptoForce
       location: Hungary
@@ -226,80 +225,80 @@ categories:
       specialization: End-of-arm tooling for cobots
       links:
         website: "https://robotiq.com/"
-  research_centers:
-    - name: Bristol Robotics Laboratory
-      location: UK
-      focus_areas: Multiple domains
-      links:
-        website: "https://www.brl.ac.uk"
-        opportunities: "https://www.brl.ac.uk/opportunities"
-        linkedin: "https://www.linkedin.com/company/bristol-robotics-laboratory/"
-    - name: DFKI Robotics Innovation Center
-      location: Germany
-      focus_areas: AI & Robotics
-      links:
-        website: "https://www.dfki.de"
-        careers: "https://www.dfki.de/web/karriere/jobs"
-        linkedin: "https://www.linkedin.com/company/dfki/"
-    - name: IDIAP Research Institute
-      location: Switzerland
-      focus_areas: ML & Robotics
-      links:
-        website: "https://www.idiap.ch"
-        positions: "https://www.idiap.ch/en/jobs"
-        linkedin: "https://www.linkedin.com/company/idiap-research-institute/"
-    - name: Italian Institute of Technology
-      location: Italy
-      focus_areas: Humanoid & AI
-      links:
-        website: "https://www.iit.it"
-        jobs: "https://www.iit.it/careers/work-with-us"
-        linkedin: "https://www.linkedin.com/company/iit-italian-institute-of-technology/"
-    - name: LAAS-CNRS
-      location: France
-      focus_areas: Autonomous systems
-      links:
-        website: "https://www.laas.fr"
-        positions: "https://www.laas.fr/public/en/jobs"
-        linkedin: "https://www.linkedin.com/company/laas-cnrs/"
-    - name: MAX-PLANCK Institute for Intelligent Systems
-      location: Germany
-      focus_areas: Bio-inspired robotics
-      links:
-        website: "https://is.mpg.de"
-        openings: "https://is.mpg.de/jobs"
-        linkedin: "https://www.linkedin.com/company/max-planck-institute-for-intelligent-systems/"
-  university_labs:
-    - name: Robotics Systems Lab
-      institution: ETH Zurich
-      focus_areas: Legged robots, Control
-      links:
-        website: "https://rsl.ethz.ch"
-        openings: "https://rsl.ethz.ch/education/join-us.html"
-    - name: RPL Lab
-      institution: KTH Stockholm
-      focus_areas: Perception, Learning
-      links:
-        website: "https://www.kth.se"
-        positions: "https://www.kth.se/en/studies/phd/vacancies-1.572201"
-    - name: Robotics Institute
-      institution: TU Delft
-      focus_areas: Multiple areas
-      links:
-        website: "https://www.tudelft.nl/robotics"
-        vacancies: "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures"
-    - name: Institute of Robotics and Mechatronics
-      institution: TU Munich
-      focus_areas: Various domains
-      links:
-        website: "https://www.mirmi.tum.de"
-        openings: "https://www.mirmi.tum.de/mirmi/jobs/"
-    - name: Robotics Institute
-      institution: UCL London
-      focus_areas: Medical robotics
-      links:
-        website: "https://www.ucl.ac.uk/robotics"
-        opportunities: "https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs"
+research_centers:
+  - name: Bristol Robotics Laboratory
+    location: UK
+    focus_areas: Multiple domains
+    links:
+      website: "https://www.brl.ac.uk"
+      opportunities: "https://www.brl.ac.uk/opportunities"
+      linkedin: "https://www.linkedin.com/company/bristol-robotics-laboratory/"
+  - name: DFKI Robotics Innovation Center
+    location: Germany
+    focus_areas: AI & Robotics
+    links:
+      website: "https://www.dfki.de"
+      careers: "https://www.dfki.de/web/karriere/jobs"
+      linkedin: "https://www.linkedin.com/company/dfki/"
+  - name: IDIAP Research Institute
+    location: Switzerland
+    focus_areas: ML & Robotics
+    links:
+      website: "https://www.idiap.ch"
+      positions: "https://www.idiap.ch/en/jobs"
+      linkedin: "https://www.linkedin.com/company/idiap-research-institute/"
+  - name: Italian Institute of Technology
+    location: Italy
+    focus_areas: Humanoid & AI
+    links:
+      website: "https://www.iit.it"
+      jobs: "https://www.iit.it/careers/work-with-us"
+      linkedin: "https://www.linkedin.com/company/iit-italian-institute-of-technology/"
+  - name: LAAS-CNRS
+    location: France
+    focus_areas: Autonomous systems
+    links:
+      website: "https://www.laas.fr"
+      positions: "https://www.laas.fr/public/en/jobs"
+      linkedin: "https://www.linkedin.com/company/laas-cnrs/"
+  - name: MAX-PLANCK Institute for Intelligent Systems
+    location: Germany
+    focus_areas: Bio-inspired robotics
+    links:
+      website: "https://is.mpg.de"
+      openings: "https://is.mpg.de/jobs"
+      linkedin: "https://www.linkedin.com/company/max-planck-institute-for-intelligent-systems/"
+university_labs:
+  - name: Robotics Systems Lab
+    institution: ETH Zurich
+    focus_areas: Legged robots, Control
+    links:
+      website: "https://rsl.ethz.ch"
+      openings: "https://rsl.ethz.ch/education/join-us.html"
+  - name: RPL Lab
+    institution: KTH Stockholm
+    focus_areas: Perception, Learning
+    links:
+      website: "https://www.kth.se"
+      positions: "https://www.kth.se/en/studies/phd/vacancies-1.572201"
+  - name: Robotics Institute
+    institution: TU Delft
+    focus_areas: Robotics-Bio-Soft
+    links:
+      website: "https://www.tudelft.nl/robotics"
+      vacancies: "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures"
+  - name: Institute of Robotics and Mechatronics
+    institution: TU Munich
+    focus_areas: Various domains
+    links:
+      website: "https://www.mirmi.tum.de"
+      openings: "https://www.mirmi.tum.de/mirmi/jobs/"
+  - name: Robotics Institute
+    institution: UCL London
+    focus_areas: Medical robotics
+    links:
+      website: "https://www.ucl.ac.uk/robotics"
+      opportunities: "https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs"
 resources:
   job_boards:
     - name: EU Robotics Jobs
