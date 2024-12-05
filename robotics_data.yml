@@ -100,6 +100,77 @@ established_companies:
         website: "https://www.safelog.de"
         careers: "https://www.safelog.de/en/careers/"
         linkedin: "https://www.linkedin.com/company/safelog-gmbh/"
+  defense_military:
+    - name: Airbus Defence and Space
+      location: Europe (Headquarters in Netherlands)
+      specialization: Aerospace, defense, unmanned systems
+      links:
+        website: "https://www.airbus.com/en/products-services/defence"
+        careers: "https://www.airbus.com/en/careers"
+        linkedin: "https://www.linkedin.com/company/airbus/"
+    - name: BAE Systems
+      location: UK
+      specialization: Defense, aerospace, robotics
+      links:
+        website: "https://www.baesystems.com"
+        careers: "https://www.baesystems.com/en/careers"
+        linkedin: "https://www.linkedin.com/company/bae-systems/"
+    - name: Leonardo S.p.A.
+      location: Italy
+      specialization: Aerospace, defense, robotics
+      links:
+        website: "https://www.leonardo.com"
+        careers: "https://www.leonardo.com/en/people-careers"
+        linkedin: "https://www.linkedin.com/company/leonardo-company/"
+    - name: Rheinmetall AG
+      location: Germany
+      specialization: Defense, automotive, robotics
+      links:
+        website: "https://www.rheinmetall.com"
+        careers: "https://www.rheinmetall.com/en/rheinmetall_ag/career_1/"
+        linkedin: "https://www.linkedin.com/company/rheinmetall/"
+    - name: Saab Group
+      location: Sweden
+      specialization: Defense, aerospace, underwater robotics
+      links:
+        website: "https://www.saab.com"
+        careers: "https://www.saab.com/career"
+        linkedin: "https://www.linkedin.com/company/saab/"
+    - name: Thales Group
+      location: France
+      specialization: Defense, security, robotics
+      links:
+        website: "https://www.thalesgroup.com"
+        careers: "https://www.thalesgroup.com/en/careers"
+        linkedin: "https://www.linkedin.com/company/thales/"
+    - name: Indra Sistemas
+      location: Spain
+      specialization: Defense, security, robotics
+      links:
+        website: "https://www.indracompany.com"
+        careers: "https://www.indracompany.com/en/indra-job"
+        linkedin: "https://www.linkedin.com/company/indra/"
+    - name: Kongsberg Gruppen
+      location: Norway
+      specialization: Defense, maritime, autonomous systems
+      links:
+        website: "https://www.kongsberg.com"
+        careers: "https://www.kongsberg.com/careers/"
+        linkedin: "https://www.linkedin.com/company/kongsberg/"
+    - name: MBDA
+      location: Europe (UK, France, Italy, Germany)
+      specialization: Missile systems, defense robotics
+      links:
+        website: "https://www.mbda-systems.com"
+        careers: "https://www.mbda-systems.com/careers/"
+        linkedin: "https://www.linkedin.com/company/mbda/"
+    - name: QinetiQ
+      location: UK
+      specialization: Defense technology, robotics
+      links:
+        website: "https://www.qinetiq.com"
+        careers: "https://www.qinetiq.com/en/careers"
+        linkedin: "https://www.linkedin.com/company/qinetiq/"
 growing_startups:
   aerial_drones:
     - name: Aerones

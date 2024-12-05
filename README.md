@@ -5,13 +5,14 @@
   - [Industrial Manufacturing](#industrial-manufacturing)
   - [Service Humanoid](#service-humanoid)
   - [Mobile Logistics](#mobile-logistics)
+  - [Defense Military](#defense-military)
 - [🚀 Growing Startups](#growing-startups)
   - [Aerial Drones](#aerial-drones)
   - [Legged Robotics](#legged-robotics)
   - [Warehouse Logistics](#warehouse-logistics)
   - [Medical Healthcare](#medical-healthcare)
   - [Specialized Applications](#specialized-applications)
-- [🔧 Components](#components)
+  - [Components](#components)
 - [🔬 Research Centers](#research-centers)
 - [🎓 University Labs](#university-labs)
 
@@ -27,7 +28,7 @@
 | FANUC Europe | Luxembourg | CNC systems, industrial robots | [Website](https://www.fanuc.eu) • [Careers](https://www.fanuc.eu/uk/en/career) • [Linkedin](https://www.linkedin.com/company/fanuc-europe/) |
 | Franka Emika | Germany | Collaborative robots | [Website](https://www.franka.de) • [Careers](https://www.franka.de/career/) • [Linkedin](https://www.linkedin.com/company/franka-emika/) |
 | KUKA | Germany | Industrial robots, cobots | [Website](https://www.kuka.com) • [Careers](https://www.kuka.com/careers) • [Linkedin](https://www.linkedin.com/company/kuka/) |
-| Staubli Robotics | Switzerland | Industrial robots | [Website](https://www.staubli.com/robotics) • [Careers](https://www.staubli.com/en/career/) • [Linkedin](https://www.linkedin.com/company/staubli/) |
+| StÃ¤ubli Robotics | Switzerland | Industrial robots | [Website](https://www.staubli.com/robotics) • [Careers](https://www.staubli.com/en/career/) • [Linkedin](https://www.linkedin.com/company/staubli/) |
 | Universal Robots | Denmark | Collaborative robots | [Website](https://www.universal-robots.com) • [Careers](https://www.universal-robots.com/careers/) • [Linkedin](https://www.linkedin.com/company/universal-robots-a-s/) |
 
 ### Service Humanoid
@@ -45,6 +46,21 @@
 | Mobile Industrial Robots | Denmark | Autonomous mobile robots | [Website](https://www.mobile-industrial-robots.com) • [Careers](https://www.mobile-industrial-robots.com/careers/) • [Linkedin](https://www.linkedin.com/company/mobile-industrial-robots/) |
 | Robotnik | Spain | Mobile platforms | [Website](https://www.robotnik.eu) • [Careers](https://www.robotnik.eu/jobs/) • [Linkedin](https://www.linkedin.com/company/robotnik/) |
 | SAFELOG | Germany | Warehouse automation | [Website](https://www.safelog.de) • [Careers](https://www.safelog.de/en/careers/) • [Linkedin](https://www.linkedin.com/company/safelog-gmbh/) |
+
+### Defense Military
+
+| Name | Location | Specialization | Links |
+|------|----------|----------------|-------|
+| Airbus Defence and Space | Europe (Headquarters in Netherlands) | Aerospace, defense, unmanned systems | [Website](https://www.airbus.com/en/products-services/defence) • [Careers](https://www.airbus.com/en/careers) • [Linkedin](https://www.linkedin.com/company/airbus/) |
+| BAE Systems | UK | Defense, aerospace, robotics | [Website](https://www.baesystems.com) • [Careers](https://www.baesystems.com/en/careers) • [Linkedin](https://www.linkedin.com/company/bae-systems/) |
+| Leonardo S.p.A. | Italy | Aerospace, defense, robotics | [Website](https://www.leonardo.com) • [Careers](https://www.leonardo.com/en/people-careers) • [Linkedin](https://www.linkedin.com/company/leonardo-company/) |
+| Rheinmetall AG | Germany | Defense, automotive, robotics | [Website](https://www.rheinmetall.com) • [Careers](https://www.rheinmetall.com/en/rheinmetall_ag/career_1/) • [Linkedin](https://www.linkedin.com/company/rheinmetall/) |
+| Saab Group | Sweden | Defense, aerospace, underwater robotics | [Website](https://www.saab.com) • [Careers](https://www.saab.com/career) • [Linkedin](https://www.linkedin.com/company/saab/) |
+| Thales Group | France | Defense, security, robotics | [Website](https://www.thalesgroup.com) • [Careers](https://www.thalesgroup.com/en/careers) • [Linkedin](https://www.linkedin.com/company/thales/) |
+| Indra Sistemas | Spain | Defense, security, robotics | [Website](https://www.indracompany.com) • [Careers](https://www.indracompany.com/en/indra-job) • [Linkedin](https://www.linkedin.com/company/indra/) |
+| Kongsberg Gruppen | Norway | Defense, maritime, autonomous systems | [Website](https://www.kongsberg.com) • [Careers](https://www.kongsberg.com/careers/) • [Linkedin](https://www.linkedin.com/company/kongsberg/) |
+| MBDA | Europe (UK, France, Italy, Germany) | Missile systems, defense robotics | [Website](https://www.mbda-systems.com) • [Careers](https://www.mbda-systems.com/careers/) • [Linkedin](https://www.linkedin.com/company/mbda/) |
+| QinetiQ | UK | Defense technology, robotics | [Website](https://www.qinetiq.com) • [Careers](https://www.qinetiq.com/en/careers) • [Linkedin](https://www.linkedin.com/company/qinetiq/) |
 
 ## Growing Startups
 
@@ -87,7 +103,7 @@
 | Piap Space | Poland | Space robotics | [Website](https://piap.space) • [Careers](https://piap.space/careers/) • [Linkedin](https://www.linkedin.com/company/piap-space/) |
 | Wandelbots | Germany | Robot programming | [Website](https://www.wandelbots.com) • [Careers](https://www.wandelbots.com/en/career/) • [Linkedin](https://www.linkedin.com/company/wandelbots/) |
 
-## Components
+### Components
 
 | Name | Location | Specialization | Links |
 |------|----------|----------------|-------|
@@ -113,7 +129,7 @@
 |------|----------|----------------|-------|
 | Robotics Systems Lab |  | Legged robots, Control | [Website](https://rsl.ethz.ch) • [Openings](https://rsl.ethz.ch/education/join-us.html) |
 | RPL Lab |  | Perception, Learning | [Website](https://www.kth.se) • [Positions](https://www.kth.se/en/studies/phd/vacancies-1.572201) |
-| Robotics Institute |  | Multiple areas | [Website](https://www.tudelft.nl/robotics) • [Vacancies](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures) |
+| Robotics Institute |  | Robotics-Bio-Soft | [Website](https://www.tudelft.nl/robotics) • [Vacancies](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures) |
 | Institute of Robotics and Mechatronics |  | Various domains | [Website](https://www.mirmi.tum.de) • [Openings](https://www.mirmi.tum.de/mirmi/jobs/) |
 | Robotics Institute |  | Medical robotics | [Website](https://www.ucl.ac.uk/robotics) • [Opportunities](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs) |
 
